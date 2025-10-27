@@ -1,0 +1,11 @@
+"Patch"
+{
+	include "materials/models/player/engineer/engineer_blue.vmt"
+	insert
+	{
+		"$basetexture" "soda/plumber/plumber_blue"
+		"$bumpmap" "soda/plumber/plumber_normal"
+		"$phongexponenttexture" "lights/white"
+		"$phongexponent" "16"
+	}
+}

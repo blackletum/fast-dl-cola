@@ -1,0 +1,10 @@
+"Patch"
+{
+	include "materials/soda/plumber/plumber_red_uber.vmt"
+	insert
+	{
+		"$basetexture" "editor/gray"
+		"$detail" "debug/debugluxels"
+		"$envmaptint" "[0.5 0.5 0.5]"
+	}
+}
